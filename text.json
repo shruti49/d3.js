@@ -1,0 +1,8 @@
+[
+  { "width": 30, "height": 4, "fill": "red" },
+  { "width": 30, "height": 4, "fill": "yellow" },
+  { "width": 30, "height": 14, "fill": "cyan" },
+  { "width": 30, "height": 44, "fill": "orangered" },
+  { "width": 30, "height": 100, "fill": "blue" },
+  { "width": 30, "height": 12, "fill": "green" }
+]
